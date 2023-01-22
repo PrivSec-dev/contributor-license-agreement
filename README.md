@@ -4,7 +4,7 @@ This repository is dedicated exclusively to the Contributor License Agreement. P
 
 - [**View the revision history of the CLA**](https://github.com/PrivSec-dev/contributor-license-agreement/commits/main/Contributor%20License%20Agreement.md)
 
-- [**Accept the CLA**](https://github.com/PrivSec-dev/contributor-license-agreement/issues/new?assignees=&labels=v&template=Contributor+License+Agreement.yml&title=%5Bv%5D+%3CYour+GitHub+Username%3E)
+- [**Accept the CLA**](https://github.com/PrivSec-dev/contributor-license-agreement/issues/new?assignees=&labels=v1&template=Contributor+License+Agreement.yml&title=%5Bv1%5D+%3CYour+GitHub+Username%3E)
 
 <br>
 
