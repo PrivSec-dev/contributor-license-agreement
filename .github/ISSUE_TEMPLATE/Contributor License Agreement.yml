@@ -1,0 +1,16 @@
+name: "Contributor License Agreement"
+description: "Accept the PrivSec.dev CLA."
+title: "[v1] <Your GitHub Username>"
+labels: ["v1"]
+body:
+  - type: markdown
+    attributes:
+      value: "Thank you for your interest in contributing to PrivSec.dev. In order to protect both you as a contributor and the PrivSec.dev Organization, please review and accept our Contributor License Agreement."
+  - type: checkboxes
+    attributes:
+      label: "Contributor License Agreement"
+      options:
+        - label: "I agree to PrivSec.dev's [Contributor License Agreement Version&nbsp;1](https://github.com/PrivSec-dev/contributor-license-agreement/blob/0000001/Contributor%20License%20Agreement.md) and all license terms therein."
+          required: true
+    validations:
+      required: true
