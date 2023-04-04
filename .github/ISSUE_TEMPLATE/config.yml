@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: "Main PrivSec.dev Repository"
+    url: "https://github.com/PrivSec-dev/privsec.dev"
+    about: "​"
+  - name: "PrivSec.dev Matrix Chat"
+    url: "https://invite.arcticfoxes.net/#/!frWBWOPyriepLexnsA:arcticfoxes.net?via=arcticfoxes.net&via=matrix.org&via=envs.net"
+    about: "General questions and discussions. #PrivSec.dev:arcticfoxes.net"
